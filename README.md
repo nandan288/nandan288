@@ -3,9 +3,7 @@
 
 <p align="center">
   
- ![image](https://github.com/user-attachments/assets/caec16b8-14aa-47d7-bc5a-43246fc9b799)
-  ![image](https://github.com/user-attachments/assets/1f9a1f83-a5b2-41c9-a357-e368163e1984)
-  ![image](https://github.com/user-attachments/assets/3fea3d44-9fe8-45b0-9e42-a53860f5d17b)
+ ![image](https://github.com/user-attachments/assets/c5db262d-98e5-462c-81b5-ae4b57c0e59b)
 
 </p>
 
